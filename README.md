@@ -1,1 +1,1 @@
--m "this is the file for the mai computer" 
+-m "this is the colllaborations for vm" 
